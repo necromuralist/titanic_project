@@ -1,0 +1,3 @@
+[submodule "titanic_project/data_analysis"]
+	path = titanic_project/data_analysis
+	url = /home/charon/projects/data_analysis/

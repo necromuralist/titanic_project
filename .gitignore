@@ -1,0 +1,16 @@
+**/api/
+build/
+*.py[cod]
+*egg-info/
+dist/
+**/cache/
+*~
+*.cover
+*.log
+.venv
+daily_engagement_full.csv
+.ipynb_checkpoints/
+__pycache__
+*.pkl
+.pdf
+large_data/
